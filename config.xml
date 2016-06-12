@@ -4,11 +4,11 @@
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "net.moodlemoot.mootes14"
         versionCode = "391"
-        version   = "1.15">
+        version   = "2.0">
     <name>Fsac Moodle </name>
 
     <description>
-        Moodle Mobile official app
+        Moodle Mobile For Fsac  University
     </description>
 
     <author href="http://moodle.com" email="juan@moodle.com">
